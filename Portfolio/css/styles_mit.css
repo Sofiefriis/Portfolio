@@ -1,0 +1,537 @@
+
+@media screen and (max-width: 768px) { /* Mobil */
+
+
+	/* ---------- Side-navigation - start ----------*/
+
+	#profilbillede {
+		display: block;
+	    margin: auto;
+	}
+
+	.nav {
+		background-color: lightgrey;
+	}
+
+	.menupunkter {
+		margin-top: -30px;
+	}
+
+	.template_info {
+		font-size: 12px;
+	}
+
+
+	/* ---------- Side-navigation - slut ----------*/
+
+
+
+
+	/* ---------- Indholdstekst - start ----------*/
+
+	.fh5co-feature .overskrift h3 {
+		font-size: 20px;
+		margin-top: 30px;
+		margin-left: 10px;
+	}
+
+	.fh5co-feature .indholdstekst h4 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	.fh5co-feature .indholdstekst h5 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bolder;
+		margin-bottom: 0px;
+	}
+	 
+	.fh5co-feature .indholdstekst i {
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+	}
+
+	.fh5co-feature .indholdstekst p {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst h3 {
+		font-size: 18px;
+	}
+
+	.fh5co-feature .indholdstekst ol li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst ul li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.inhold{
+		margin-top: 50px;
+		margin-left: -60px;
+
+	}
+
+	main #fh5co-main .fh5co-narrow-content {
+		width: 100%;
+		padding-left: 0em !important;
+		padding-right: 0em !important;
+	}
+
+
+	/* ---------- Indholdstekst - slut ----------*/
+
+
+
+	/* ---------- Fixed menu til højre - start ----------*/
+
+	.fixed_menu {
+		display: none;
+	}
+
+
+	/* ---------- Fixed menu til højre - slut ----------*/
+
+
+
+	/* ---------- Billeder - start ----------*/
+
+	figure .col-md-6 {
+		margin-left: -15px;
+		margin-bottom: 40px;
+	}
+
+	/* ---------- Billeder - slut ----------*/
+
+}
+
+
+
+@media screen and (min-width: 576px) and (max-width: 768px) { /* Lille Tablet */
+
+
+	/* ---------- Side-navigation Venstre - start ----------*/
+
+	#profilbillede {
+		display: block;
+	    margin: auto;
+	}
+
+	.nav {
+		background-color: lightgrey;
+	}
+
+	.menupunkter {
+		margin-top: -30px;
+	}
+
+	.template_info {
+		font-size: 12px;
+	}
+
+
+	/* ---------- Side-navigation Venstre - slut ----------*/
+
+
+
+
+	/* ---------- Indholdstekst - start ----------*/
+
+	.fh5co-feature .overskrift h3 {
+		font-size: 30px;
+		margin-top: 30px;
+		margin-left: 10px;
+	}
+
+	.fh5co-feature .indholdstekst h4 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	.fh5co-feature .indholdstekst h5 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bolder;
+		margin-bottom: 0px;
+	}
+	 
+	.fh5co-feature .indholdstekst i {
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+	}
+
+	.fh5co-feature .indholdstekst p {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst h3 {
+		font-size: 18px;
+	}
+
+	.fh5co-feature .indholdstekst ol li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst ul li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.inhold{
+		margin-top: 50px;
+		margin-left: -60px;
+	}
+
+	/* ---------- Indholdstekst - slut ----------*/
+
+
+
+		/* ---------- Fixed menu til højre - start ----------*/
+
+
+	.fixed_menu {
+		display: none;
+	}
+
+
+	/* ---------- Fixed menu til højre - slut ----------*/
+
+
+
+
+	/* ---------- Billeder - start ----------*/
+
+	figure .col-md-6 {
+		margin-left: -15px;
+		margin-bottom: 40px;
+	}
+
+	/* ---------- Billeder - slut ----------*/
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) { /* Stor Tablet */
+
+
+	/* ---------- Side-navigation Venstre - start ----------*/
+
+	#profilbillede {
+		display: block;
+	    margin: auto;
+	}
+
+	.nav {
+		background-color: lightgrey;
+	}
+
+	.menupunkter {
+		margin-top: -30px;
+	}
+
+	.template_info {
+		font-size: 12px;
+	}
+
+
+	/* ---------- Side-navigation Venstre - slut ----------*/
+
+
+
+
+	/* ---------- Indholdstekst - start ----------*/
+
+	.fh5co-feature .overskrift h3 {
+		font-size: 30px;
+		margin-top: 30px;
+		margin-left: 10px;
+	}
+
+	.fh5co-feature .indholdstekst h4 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	.fh5co-feature .indholdstekst h5 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bolder;
+		margin-bottom: 0px;
+	}
+	 
+	.fh5co-feature .indholdstekst i {
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+	}
+
+	.fh5co-feature .indholdstekst p {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst h3 {
+		font-size: 18px;
+	}
+
+	.fh5co-feature .indholdstekst ol li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst ul li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.inhold{
+		margin-top: 50px;
+		margin-left: -60px;
+	}
+
+	/* ---------- Indholdstekst - slut ----------*/
+
+
+
+	/* ---------- Fixed menu til højre - start ----------*/
+
+
+	.fixed_menu {
+		position: fixed;
+		width: 200px;
+		height: auto;
+		padding: 20px; 
+		right: 0px;
+		top: 25%;
+	}
+
+	.fixed_menu_gestalt {
+		top: 5%;
+	}
+
+	.fixed_menu_lang {
+		top: 0%;
+	}
+
+	.fixed_menu ul li a{
+		color: #228896;
+		text-decoration: none;
+		letter-spacing: .1em;
+		text-transform: uppercase;
+		font-size: 10px;
+		font-weight: 500;
+		letter-spacing: .1em;
+		font-family: "Roboto", Arial, sans-serif;
+		-webkit-transition: 0.3s;
+		-o-transition: 0.3s;
+		transition: 0.3s;
+		/* Lånt fra "main-menu" templatens egen CSS (Rettet en smule i) */
+	}
+
+	.fixed_menu ul {
+		list-style-type: none;
+
+	}
+	 .fixed_menu li {
+		margin: 30px 0px 30px 0px;
+		text-align: right;
+	}
+
+	.fixed_menu .menu_light {
+		font-weight: 300;
+	}
+
+	/* ---------- Fixed menu til højre - slut ----------*/
+
+
+	/* ---------- Billeder - start ----------*/
+
+	figure .col-md-6 {
+		margin-left: -15px;
+		margin-bottom: 40px;
+	}
+
+	/* ---------- Billeder - slut ----------*/
+
+}
+
+
+
+@media screen and (min-width: 960px) { /* Desktop */
+
+
+	/* ---------- Side-navigation Venstre - start ----------*/
+
+	#profilbillede {
+		display: block;
+	    margin: auto;
+	}
+
+	.nav {
+		background-color: lightgrey;
+	}
+
+	.menupunkter {
+		margin-top: -30px;
+	}
+
+	.template_info {
+		font-size: 12px;
+	}
+
+
+	/* ---------- Side-navigation Venstre - slut ----------*/
+
+
+
+
+	/* ---------- Indholdstekst - start ----------*/
+
+	.fh5co-feature .overskrift h3 {
+		font-size: 30px;
+		margin-top: 30px;
+		margin-left: 10px;
+	}
+
+	.fh5co-feature .indholdstekst h4 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bold;
+		margin-bottom: 0px;
+	}
+
+	.fh5co-feature .indholdstekst h5 {
+		text-transform: uppercase;
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+		font-weight: bolder;
+		margin-bottom: 0px;
+	}
+	 
+	.fh5co-feature .indholdstekst i {
+		color: #228896;
+		letter-spacing: 1px;
+		font-size: 16px;
+	}
+
+	.fh5co-feature .indholdstekst p {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst h3 {
+		font-size: 18px;
+	}
+
+	.fh5co-feature .indholdstekst ol li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.fh5co-feature .indholdstekst ul li {
+		font-size: 16px;
+		font-weight: bolder;
+	}
+
+	.inhold{
+		margin-top: 50px;
+	}
+
+	/* ---------- Indholdstekst - slut ----------*/
+
+
+
+	/* ---------- Fixed menu til højre - start ----------*/
+
+
+	.fixed_menu {
+		position: fixed;
+		width: 200px;
+		height: auto;
+		padding: 20px;
+		right: 0px;
+		top: 25%;
+	}
+
+.fixed_menu_gestalt {
+		top: 5%;
+	}
+
+	.fixed_menu_lang {
+		top: 0%;
+	}
+
+	.fixed_menu ul li a{
+		color: #228896;
+		text-decoration: none;
+		letter-spacing: .1em;
+		text-transform: uppercase;
+		font-size: 10px;
+		font-weight: 500;
+		letter-spacing: .1em;
+		font-family: "Roboto", Arial, sans-serif;
+		-webkit-transition: 0.3s;
+		-o-transition: 0.3s;
+		transition: 0.3s;
+		/* Lånt fra "main-menu" templatens egen CSS (Rettet en smule i) */
+	}
+
+	.fixed_menu ul {
+		list-style-type: none;
+	}
+
+	 .fixed_menu li {
+		margin: 30px 0px 30px 0px;
+		text-align: right;
+	}
+
+	.fixed_menu .menu_light {
+		font-weight: 300;
+	}
+
+	/* ---------- Fixed menu til højre - slut ----------*/
+
+
+	/* ---------- Billeder - start ----------*/
+
+	figure .col-md-6 {
+		margin-left: -15px;
+		margin-bottom: 40px;
+	}
+
+	figure {
+		background-color: rgba(0 0 0 0.9);
+	}
+
+	/* ---------- Billeder - slut ----------*/
+
+}
